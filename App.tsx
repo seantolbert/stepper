@@ -34,11 +34,9 @@ const styles = StyleSheet.create({
     backgroundColor: "black",
     justifyContent: "center",
     padding: 10,
-    // gap: 20,
   },
   valueContainer: {
     minWidth: "40%",
-    // marginVertical: 10,
   },
   label: {
     color: "white",
